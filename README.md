@@ -7,7 +7,7 @@ In the following analysis, I attempted to find the outlying performances of play
 - Isolation Forest
 
 I tried to find outliers in the following feature combinations:
-- Effective field goal percentage (eFG%)  => following feature combinations that will be analyzed (FG vs eFG%)
+- Effective field goal percentage (eFG%)  => following feature combinations that will be analyzed (FG vs eFG%) & (PTS vs eFG%)
 - True shooting percentage (TS%) => following feature combinations that will be analyzed (FG% vs TS%) & (PTS vs TS%)
 - Player efficiency rating (PER) => following feature combinations that will be analyzed (G vs PER) & (GS vs PER)
 - Field Goal & PTS => (FG vs 2P) & (FG vs 3P)

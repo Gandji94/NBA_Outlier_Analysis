@@ -15,4 +15,7 @@ I tried to find outliers in the following feature combinations:
 
 The data was gathered from FBref with the pandas HTML function and a web scrapper, which I created. 
 
+Requirments:
+The project requieres Python 3.11.9
+
 Last update: 30.03.2025
